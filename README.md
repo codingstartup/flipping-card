@@ -1,8 +1,8 @@
 # Flipping Card
 
 This project is created by **CodingStartup** as a tutorial. Tutorial video can be found here:
-- YouTube [https://www.youtube.com/watch?v=gBwN9kTXgMs](https://www.youtube.com/watch?v=gBwN9kTXgMs)
-- BiliBili [https://www.bilibili.com/video/BV1j441197nb](https://www.bilibili.com/video/BV1j441197nb)
+- YouTube: [https://www.youtube.com/watch?v=gBwN9kTXgMs](https://www.youtube.com/watch?v=gBwN9kTXgMs)
+- BiliBili: [https://www.bilibili.com/video/BV1j441197nb](https://www.bilibili.com/video/BV1j441197nb)
 
 CodePen version of this project can be found at [https://codepen.io/stevenlei/pen/MWgePpE](https://codepen.io/stevenlei/pen/MWgePpE).
 
@@ -40,5 +40,7 @@ npm run serve
 
 ## CodingStartup Channels
 
-- YouTube Channel [https://www.youtube.com/codingstartup](https://www.youtube.com/codingstartup)
-- BiliBili Channel [https://space.bilibili.com/451368848](https://space.bilibili.com/451368848)
+Please subscribe to my channel, thank you for your support!
+
+- YouTube Channel: [https://www.youtube.com/codingstartup](https://www.youtube.com/codingstartup)
+- BiliBili Channel: [https://space.bilibili.com/451368848](https://space.bilibili.com/451368848)
